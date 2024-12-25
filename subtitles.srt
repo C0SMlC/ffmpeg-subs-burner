@@ -1,0 +1,37 @@
+1
+00:00:02,000 --> 00:00:05,500
+Welcome to our video tutorial
+
+2
+00:00:06,000 --> 00:00:09,800
+Today we'll learn about web development
+
+3
+00:00:10,200 --> 00:00:15,000
+First, let's start with HTML basics
+It's the foundation of web pages
+
+4
+00:00:16,000 --> 00:00:20,500
+HTML uses tags to structure content
+For example: <header>, <main>, and <footer>
+
+5
+00:00:21,000 --> 00:00:25,000
+Next, we'll look at CSS
+This is what makes websites beautiful
+
+6
+00:00:26,000 --> 00:00:30,000
+CSS controls colors, layouts, and animations
+Let's see some examples
+
+7
+00:00:31,000 --> 00:00:35,000
+Finally, we'll cover JavaScript
+The language that makes websites interactive
+
+8
+00:00:35,500 --> 00:00:40,000
+Stay tuned for more tutorials!
+Don't forget to subscribe
